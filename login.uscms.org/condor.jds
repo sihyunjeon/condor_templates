@@ -1,0 +1,24 @@
++JobBatchName = "@@JobBatchName@@"
++JobFlavour = "@@JobFlavour@@"
+
+Universe = vanilla 
+
+Executable = run.sh
+ 
+Error = $(ClusterId).$(ProcId).err
+Output = $(ClusterId).$(ProcId).out
+Log = $(ClusterId).log
+
+request_cpus = @@request_cpus@@
+request_memory = @@request_memory@@
+
+use_x509userproxy = True
+x509userproxy = @@x509userproxy@@
+
+should_transfer_files = yes
+
++SingularityImage = "/cvmfs/singularity.opensciencegrid.org/cmssw/cms:rhel9"
+
++ProjectName = "cms.org"
+
+Queue @@Queue@@
