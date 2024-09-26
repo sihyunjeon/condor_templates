@@ -1,0 +1,25 @@
++JobBatchName = "@@JobBatchName@@"
++JobFlavour = "@@JobFlavour@@"
+
+Universe = vanilla 
+
+Executable = run.sh
+ 
+Error = $(ClusterId).$(ProcId).err
+Output = $(ClusterId).$(ProcId).out
+Log = $(ClusterId).log
+
+request_cpus = @@request_cpus@@
+request_memory = @@request_memory@@
+
+use_x509userproxy = True
+x509userproxy = @@x509userproxy@@
+
+should_transfer_files = yes
+
++SingularityImage = "/cvmfs/singularity.opensciencegrid.org/cmssw/cms:rh@@el@@"
+
++AccountingGroup = "analysis.shjeon33"
++DESIRED_Sites = "T2_US_Caltech,T2_US_Florida,T2_US_MIT,T2_US_Nebraska,T2_US_Purdue,T2_US_UCSD,T2_US_Vanderbilt,T2_US_Wisconsin,T3_US_HEPCloud,T3_US_NERSC,T3_US_OSG,T3_US_PSC,T3_US_SDSC,T3_US_MIT"
+
+Queue @@Queue@@
