@@ -17,7 +17,7 @@ x509userproxy = @@x509userproxy@@
 
 should_transfer_files = yes
 
-+SingularityImage = "/cvmfs/singularity.opensciencegrid.org/cmssw/cms:rhel9"
++SingularityImage = "/cvmfs/singularity.opensciencegrid.org/cmssw/cms:rh@@el@@"
 
 +ProjectName = "cms.org"
 
