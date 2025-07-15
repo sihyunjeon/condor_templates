@@ -1,0 +1,20 @@
+total 48K
+drwx------.  5 ldishman zh     4.0K Jul 11 20:11 .
+drwxr-xr-x. 33 condor   condor 4.0K Jul 11 20:11 ..
+-rwx------.  1 ldishman zh       48 Jul 11 20:11 .chirp.config
+-rw-r--r--.  1 ldishman zh        0 Jul 11 20:11 _condor_stderr
+-rw-r--r--.  1 ldishman zh        0 Jul 11 20:11 _condor_stdout
+-rw-r--r--.  1 condor   condor 5.6K Jul 11 20:11 .job.ad
+-rw-------.  1 ldishman zh     2.7K Jul 11 20:11 ldishman.cc
+-rw-r--r--.  1 ldishman zh       15 Jul 11 20:11 list.txt
+-rw-r--r--.  1 condor   condor 7.8K Jul 11 20:11 .machine.ad
+-rwxr-xr-x.  1 ldishman zh       41 Jul 11 20:11 run.sh
+drwx------.  2 ldishman zh        6 Jul 11 20:11 srv
+drwx------.  2 ldishman zh        6 Jul 11 20:11 tmp
+-rw-r--r--.  1 ldishman zh     7.8K Jul 11 20:11 .update.ad
+drwx------.  3 ldishman zh       25 Jul 11 20:11 var
+hello
+hi
+1
+2
+3

@@ -1,0 +1,100 @@
+000 (12877711.000.000) 07/10 22:49:21 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12877711.001.000) 07/10 22:49:21 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12877711.002.000) 07/10 22:49:21 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12877711.003.000) 07/10 22:49:21 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12877711.004.000) 07/10 22:49:21 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12877711.005.000) 07/10 22:49:21 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12877711.006.000) 07/10 22:49:21 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12877711.007.000) 07/10 22:49:21 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12877711.008.000) 07/10 22:49:21 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12877711.009.000) 07/10 22:49:21 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+040 (12877711.000.000) 07/10 22:50:04 Started transferring input files
+	Transferring to host: <128.142.248.15:9618?addrs=128.142.248.15-9618+[2001-1458-301-73--100-ff]-9618&alias=b9g23p2723.cern.ch&noUDP&sock=slot1_2_2179884_3abd_65323>
+...
+040 (12877711.000.000) 07/10 22:50:04 Finished transferring input files
+...
+040 (12877711.002.000) 07/10 22:50:04 Started transferring input files
+	Transferring to host: <188.185.214.76:9618?addrs=188.185.214.76-9618+[2001-1458-303-1c--100-48]-9618&alias=b9p29p1203.cern.ch&noUDP&sock=slot1_15_3417_55e4_25880>
+...
+040 (12877711.002.000) 07/10 22:50:04 Finished transferring input files
+...
+040 (12877711.001.000) 07/10 22:50:04 Started transferring input files
+	Transferring to host: <188.185.198.52:9618?addrs=188.185.198.52-9618+[2001-1458-303-25--100-30]-9618&alias=b9p15p4085.cern.ch&noUDP&sock=slot1_11_9089_c5cb_46903>
+...
+040 (12877711.001.000) 07/10 22:50:04 Finished transferring input files
+...
+001 (12877711.000.000) 07/10 22:50:05 Job executing on host: <128.142.248.15:9618?addrs=128.142.248.15-9618+[2001-1458-301-73--100-ff]-9618&alias=b9g23p2723.cern.ch&noUDP&sock=startd_3451_ad6c>
+	SlotName: slot1_2@b9g23p2723.cern.ch
+	CondorScratchDir = "/pool/condor/dir_3666699"
+	Cpus = 1
+	Disk = 4004
+	GPUs = 0
+	Memory = 3000
+...
+001 (12877711.002.000) 07/10 22:50:05 Job executing on host: <188.185.214.76:9618?addrs=188.185.214.76-9618+[2001-1458-303-1c--100-48]-9618&alias=b9p29p1203.cern.ch&noUDP&sock=startd_3138_fc47>
+	SlotName: slot1_15@b9p29p1203.cern.ch
+	CondorScratchDir = "/pool/condor/dir_3283069"
+	Cpus = 1
+	Disk = 3815
+	GPUs = 0
+	Memory = 3000
+...
+040 (12877711.005.000) 07/10 22:50:05 Started transferring input files
+	Transferring to host: <188.185.194.129:9618?addrs=188.185.194.129-9618+[2001-1458-303-21--100-7d]-9618&alias=b9p20p9608.cern.ch&noUDP&sock=slot1_36_2962798_f7da_7275>
+...
+040 (12877711.005.000) 07/10 22:50:05 Finished transferring input files
+...
+040 (12877711.007.000) 07/10 22:50:05 Started transferring input files
+	Transferring to host: <188.185.192.148:9618?addrs=188.185.192.148-9618+[2001-1458-303-1f--100-90]-9618&alias=b9p13p8090.cern.ch&noUDP&sock=slot1_13_5223_d36d_25790>
+...
+040 (12877711.007.000) 07/10 22:50:05 Finished transferring input files
+...
+001 (12877711.001.000) 07/10 22:50:05 Job executing on host: <188.185.198.52:9618?addrs=188.185.198.52-9618+[2001-1458-303-25--100-30]-9618&alias=b9p15p4085.cern.ch&noUDP&sock=startd_8106_9ec8>
+	SlotName: slot1_11@b9p15p4085.cern.ch
+	CondorScratchDir = "/pool/condor/dir_3576514"
+	Cpus = 1
+	Disk = 3899
+	GPUs = 0
+	Memory = 3000
+...
+040 (12877711.006.000) 07/10 22:50:05 Started transferring input files
+	Transferring to host: <128.142.192.138:9618?addrs=128.142.192.138-9618+[2001-1458-301-56--100-6]-9618&alias=b9g18p3169.cern.ch&noUDP&sock=slot1_33_3956592_be77_60881>
+...
+040 (12877711.006.000) 07/10 22:50:05 Finished transferring input files
+...
+006 (12877711.002.000) 07/10 22:50:05 Image size of job updated: 1108
+	2  -  MemoryUsage of job (MB)
+	1108  -  ResidentSetSize of job (KB)
+...
+040 (12877711.002.000) 07/10 22:50:05 Started transferring output files
+...
+040 (12877711.002.000) 07/10 22:50:05 Finished transferring output files
+...
+005 (12877711.002.000) 07/10 22:50:05 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	6  -  Run Bytes Sent By Job
+	31  -  Run Bytes Received By Job
+	6  -  Total Bytes Sent By Job
+	31  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       24        1      3815 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        2     3000      3000 
+	   TimeExecute (s)      :        0                    
+	   TimeSlotBusy (s)     :        2                    
+

@@ -1,0 +1,100 @@
+000 (12879114.000.000) 07/11 19:58:58 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12879114.001.000) 07/11 19:58:58 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12879114.002.000) 07/11 19:58:58 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12879114.003.000) 07/11 19:58:58 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+000 (12879114.004.000) 07/11 19:58:58 Job submitted from host: <188.184.90.62:9618?addrs=188.184.90.62-9618+[2001-1458-201-e4--100-238]-9618&alias=bigbird16.cern.ch&noUDP&sock=schedd_2633606_3d93>
+...
+040 (12879114.001.000) 07/11 20:00:18 Started transferring input files
+	Transferring to host: <128.142.248.241:9618?addrs=128.142.248.241-9618+[2001-1458-301-73--100-f0]-9618&alias=b9g23p2273.cern.ch&noUDP&sock=slot1_14_6676_9889_14599>
+...
+040 (12879114.001.000) 07/11 20:00:18 Finished transferring input files
+...
+040 (12879114.002.000) 07/11 20:00:18 Started transferring input files
+	Transferring to host: <188.185.213.142:9618?addrs=188.185.213.142-9618+[2001-1458-303-1b--100-a]-9618&alias=b9p28p1864.cern.ch&noUDP&sock=slot1_13_8678_2f9a_52422>
+...
+040 (12879114.002.000) 07/11 20:00:18 Finished transferring input files
+...
+040 (12879114.003.000) 07/11 20:00:18 Started transferring input files
+	Transferring to host: <188.185.213.148:9618?addrs=188.185.213.148-9618+[2001-1458-303-1b--100-10]-9618&alias=b9p28p0002.cern.ch&noUDP&sock=slot1_25_8480_ad52_53685>
+...
+040 (12879114.003.000) 07/11 20:00:18 Finished transferring input files
+...
+040 (12879114.000.000) 07/11 20:00:19 Started transferring input files
+	Transferring to host: <128.142.248.94:9618?addrs=128.142.248.94-9618+[2001-1458-301-73--100-14e]-9618&alias=b9g23p2790.cern.ch&noUDP&sock=slot1_24_3320166_0d9f_64066>
+...
+040 (12879114.000.000) 07/11 20:00:19 Finished transferring input files
+...
+040 (12879114.004.000) 07/11 20:00:19 Started transferring input files
+	Transferring to host: <188.185.214.49:9618?addrs=188.185.214.49-9618+[2001-1458-303-1c--100-2d]-9618&alias=b9p29p2550.cern.ch&noUDP&sock=slot1_9_8420_66cf_52475>
+...
+040 (12879114.004.000) 07/11 20:00:19 Finished transferring input files
+...
+001 (12879114.001.000) 07/11 20:00:19 Job executing on host: <128.142.248.241:9618?addrs=128.142.248.241-9618+[2001-1458-301-73--100-f0]-9618&alias=b9g23p2273.cern.ch&noUDP&sock=startd_5961_5423>
+	SlotName: slot1_14@b9g23p2273.cern.ch
+	CondorScratchDir = "/pool/condor/dir_3820715"
+	Cpus = 1
+	Disk = 4006
+	GPUs = 0
+	Memory = 3000
+...
+001 (12879114.003.000) 07/11 20:00:19 Job executing on host: <188.185.213.148:9618?addrs=188.185.213.148-9618+[2001-1458-303-1b--100-10]-9618&alias=b9p28p0002.cern.ch&noUDP&sock=startd_8427_ccaf>
+	SlotName: slot1_25@b9p28p0002.cern.ch
+	CondorScratchDir = "/pool/condor/dir_3885605"
+	Cpus = 1
+	Disk = 3753
+	GPUs = 0
+	Memory = 3000
+...
+001 (12879114.002.000) 07/11 20:00:19 Job executing on host: <188.185.213.142:9618?addrs=188.185.213.142-9618+[2001-1458-303-1b--100-a]-9618&alias=b9p28p1864.cern.ch&noUDP&sock=startd_7462_e3ca>
+	SlotName: slot1_13@b9p28p1864.cern.ch
+	CondorScratchDir = "/pool/condor/dir_4007443"
+	Cpus = 1
+	Disk = 3738
+	GPUs = 0
+	Memory = 3000
+...
+006 (12879114.002.000) 07/11 20:00:20 Image size of job updated: 556
+	1  -  MemoryUsage of job (MB)
+	556  -  ResidentSetSize of job (KB)
+...
+040 (12879114.002.000) 07/11 20:00:20 Started transferring output files
+...
+006 (12879114.003.000) 07/11 20:00:20 Image size of job updated: 1428
+	2  -  MemoryUsage of job (MB)
+	1428  -  ResidentSetSize of job (KB)
+...
+040 (12879114.003.000) 07/11 20:00:20 Started transferring output files
+...
+040 (12879114.002.000) 07/11 20:00:20 Finished transferring output files
+...
+040 (12879114.003.000) 07/11 20:00:20 Finished transferring output files
+...
+001 (12879114.000.000) 07/11 20:00:20 Job executing on host: <128.142.248.94:9618?addrs=128.142.248.94-9618+[2001-1458-301-73--100-14e]-9618&alias=b9g23p2790.cern.ch&noUDP&sock=startd_3347_5792>
+	SlotName: slot1_24@b9g23p2790.cern.ch
+	CondorScratchDir = "/pool/condor/dir_1140794"
+	Cpus = 1
+	Disk = 3889
+	GPUs = 0
+	Memory = 3000
+...
+005 (12879114.002.000) 07/11 20:00:20 Job terminated.
+	(1) Normal termination (return value 0)
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Run Local Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Remote Usage
+		Usr 0 00:00:00, Sys 0 00:00:00  -  Total Local Usage
+	2  -  Run Bytes Sent By Job
+	30  -  Run Bytes Received By Job
+	2  -  Total Bytes Sent By Job
+	30  -  Total Bytes Received By Job
+	Partitionable Resources :    Usage  Request Allocated 
+	   Cpus                 :        0        1         1 
+	   Disk (KB)            :       24        1      3738 
+	   GPUs                 :                           0 
+	   Memory (MB)          :        1     3000      3000 
+	   TimeExecute (s)      :        1                    
+	   TimeSlotBusy (s)     :        3                    

@@ -1,0 +1,18 @@
++JobBatchName = "testjob"
++JobFlavour = "espresso"
+
+Universe = vanilla 
+
+Executable = run.sh
+ 
+Error = $(ClusterId).$(ProcId).err
+Output = $(ClusterId).$(ProcId).out
+Log = $(ClusterId).log
+
+request_cpus = 1
+request_memory = 1000
+
+should_transfer_files = yes
+#transfer_input_files = list.txt
+
+Queue
